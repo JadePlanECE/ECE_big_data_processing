@@ -157,6 +157,10 @@ ENV/
 env.bak/
 venv.bak/
 
+# Big files
+*.csv
+*.parquet
+
 # Spyder project settings
 .spyderproject
 .spyproject
