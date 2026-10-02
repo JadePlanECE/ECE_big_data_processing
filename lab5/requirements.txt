@@ -1,0 +1,6 @@
+confluent-kafka>=2.3
+pywikibot
+pyspark
+requests
+requests-sse>=0.5.0
+ipykernel
